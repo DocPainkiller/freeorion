@@ -428,6 +428,7 @@
     (Shield)                                    \
     (ShipDesign)                                \
     (ShipDesignCost)                            \
+    (ShipDesignNumParts)                        \
     (ShipDesignOrdering)                        \
     (ShipDesignsDestroyed)                      \
     (ShipDesignsInProduction)                   \
